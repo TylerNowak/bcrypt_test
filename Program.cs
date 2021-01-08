@@ -8,7 +8,6 @@ namespace Hasher
         /***********************************************************************************************************************************************************
          * This Program is to test the the implementation of the BCrypt hashing algorithm as well to test the ability to test passwords against previous hashings. *
          * Created by Tyler Nowak                                                                                                                                  *
-         * For educational purposes only                                                                                                                           *
          ***********************************************************************************************************************************************************/
 
         static void Main(string[] args)
